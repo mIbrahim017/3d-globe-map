@@ -12,7 +12,7 @@ No external map dependencies — everything is self-contained in a single HTML f
 ## Demo
 
 <p align="center">
-  <img src="assets/globe3d_demo.gif" width="700"/>
+  <img src="/globe3d_demo.gif" width="700"/>
 </p>
 
 ---
