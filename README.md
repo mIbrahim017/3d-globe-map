@@ -15,6 +15,11 @@ No external map dependencies — everything is self-contained in a single HTML f
   <img src="/globe3d_demo.gif" width="700"/>
 </p>
 
+
+## Live Demo
+
+👉 https://mibrahim017.github.io/3d-globe-map/
+
 ---
 ## ✨ Features
 
