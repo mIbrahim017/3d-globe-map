@@ -9,6 +9,13 @@ No external map dependencies — everything is self-contained in a single HTML f
 
 ---
 
+## Demo
+
+<p align="center">
+  <img src="assets/globe3d_demo.gif" width="700"/>
+</p>
+
+---
 ## ✨ Features
 
 - 🌍 **All 250+ countries** rendered from SVG paths directly onto a 3D sphere texture
